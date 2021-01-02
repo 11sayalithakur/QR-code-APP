@@ -4,4 +4,4 @@ This android Application can read any given qr code and Generate the qr code bas
 
 ## Images 
 ![](image/S1.png)
-![](QR-code-APP//S2.jpg)
+![](QR-code-APP/S2.jpg)
